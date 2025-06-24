@@ -1,0 +1,42 @@
+body {
+    background-color: #e0f7e9;
+    padding: 20px;
+
+}
+
+.container {
+    display: inline-flexbox;
+    align-items: center;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(141, 140, 140, 0.934);
+    border-radius: 20px;
+    padding: 30px;
+}
+
+h1 {
+    align-items: center;
+    text-align: center;
+    margin: 10px;
+    display: inline-flex;
+    padding: 15px;
+    color: #17a2b8	;
+}
+
+p {
+    font-size: large;
+}
+
+.course {
+    box-shadow: 0 0 10px rgba(141, 140, 140, 0.934);
+    border-radius: 20px;
+    padding: 10px;
+    display: inline-block;
+
+
+}
+
+img {
+
+    float: right;
+    padding-right: 25px;
+}
