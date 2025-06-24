@@ -19,4 +19,4 @@ Learn and apply core concepts of HTML, CSS, and JavaScript by building a simple,
 💻 How to Run
 
 1. Clone the repository:
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/aaswin-js/Basic-of-web-development.git
